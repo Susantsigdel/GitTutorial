@@ -1,0 +1,5 @@
+1. Learn basic syntx
+2. Learn Collection 
+3. Learn Generics
+4. Spring Boot Framework
+5. Spring Spirng Data Jpa
