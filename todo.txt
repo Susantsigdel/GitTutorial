@@ -5,5 +5,5 @@ My To do list
 4. Stage the state of the repo
 5. Commit agian 
 6. Keep doing this until you get used to it
-7. Practise gitting
+
 
