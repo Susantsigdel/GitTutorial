@@ -3,3 +3,6 @@
 3. Learn Generics
 4. Spring Boot Framework
 5. Spring Spirng Data Jpa
+6. Hibernate
+7. Spring Security
+
