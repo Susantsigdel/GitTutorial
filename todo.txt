@@ -1,0 +1,8 @@
+My To do list
+1. Make a GitHub Repo
+2. Commit a local repo to the GitHub
+3. Make changes to that repo
+4. Stage the state of the repo
+5. Commit agian 
+6. Keep doing this until you get used to it
+
